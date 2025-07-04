@@ -1,4 +1,4 @@
-package com.kyuleeim.SpringSecurity;
+package com.kyuleeim.SpringSecurity.model;
 
 /**
  * @author limkyulee

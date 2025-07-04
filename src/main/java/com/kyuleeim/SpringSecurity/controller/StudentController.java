@@ -1,5 +1,6 @@
-package com.kyuleeim.SpringSecurity;
+package com.kyuleeim.SpringSecurity.controller;
 
+import com.kyuleeim.SpringSecurity.model.Student;
 import jakarta.servlet.http.HttpServletRequest;
 import java.util.ArrayList;
 import java.util.List;

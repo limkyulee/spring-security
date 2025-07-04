@@ -1,4 +1,4 @@
-package com.kyuleeim.SpringSecurity;
+package com.kyuleeim.SpringSecurity.controller;
 
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.web.bind.annotation.GetMapping;
